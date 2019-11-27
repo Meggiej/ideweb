@@ -18,4 +18,4 @@ This guide provides a quick tour through ImageDataExtractor concepts and functio
 
 If you use ImageDataExtractor as a resource in your research, please cite the following work:
 
-> *Add citation here after publication.*
+> K. T. Mukaddem, E. J. Beard, B. Yildirim, J. M. Cole, "ImageDataExtractor: A Tool to Extract and Quantify Data from Microscopy Images", _J. Chem. Inf. Model._ (__2019__) <a href="https://doi.org/10.1021/acs.jcim.9b00734">https://doi.org/10.1021/acs.jcim.9b00734</a>

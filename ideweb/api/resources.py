@@ -74,7 +74,6 @@ class IdeJobSubmitResource(Resource):
         return ide_job, 201
 
 
-
 @jobs.route('/<string:job_id>')
 @api.doc(params={'job_id': 'The job ID'})  # responses={404: 'Job not found'},
 class IdeJobResource(Resource):
